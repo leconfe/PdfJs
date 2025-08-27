@@ -3,3 +3,5 @@ folder: PdfJs
 author: 'Leconfe'
 description: 'This plugin uses the pdf.js PDF viewer to embed PDFs on the paper galley pages.'
 version: 1.0.0
+targets: 
+  - conference
